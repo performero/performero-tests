@@ -1,0 +1,9 @@
+{
+  "id": "1",
+  "name": "Simple Load Test 1000 GET Requests",
+  "options": {
+    "maxRequests": 1000,
+    "concurrency": 100
+  },
+  "stages": []
+}
